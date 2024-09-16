@@ -1,0 +1,6 @@
+Datensatz,Frequenz,voltage,Laufzeit,Accuracy
+fashion,3600,1.4,1214.34,93.0
+fashion,3600,1.3,1213.03,93.0
+fashion,3600,1.2,1215.28,93.0
+fashion,3600,1.1,1214.39,93.0
+fashion,3600,1.0,0,0

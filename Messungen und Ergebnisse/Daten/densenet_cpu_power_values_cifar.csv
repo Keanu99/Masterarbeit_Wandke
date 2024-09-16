@@ -1,0 +1,6 @@
+Datensatz,Frequenz,voltage,Energieverbrauch,avg_power,GPU-Energieverbrauch,Energieverbrauch_gpu_cpu,Cpu-Anteil-Energieverbrauch
+Cifar,3600,1.4,41917.24,39.64,70697.44,112614.68,37.22
+Cifar,3000,1.3,41371.56,33.26,67538.34,108909.9,37.99
+Cifar,2600,1.2,41041.45,28.97,69907.05,110948.5,36.99
+Cifar,2000,1.1,46433.52,25.53,80290.29,126723.81,36.64
+Cifar,1600,1.0,52474.61,23.09,96452.26,148926.87,35.24

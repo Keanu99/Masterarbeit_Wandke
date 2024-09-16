@@ -1,0 +1,6 @@
+Datensatz,Frequenz,voltage,Laufzeit,Accuracy
+cifar,3600,1.4,1052.45,77.1
+cifar,3000,1.3,1238.42,77.1
+cifar,2600,1.2,1410.25,77.1
+cifar,2000,1.1,1811.3,77.1
+cifar,1600,1.0,2263.15,77.1

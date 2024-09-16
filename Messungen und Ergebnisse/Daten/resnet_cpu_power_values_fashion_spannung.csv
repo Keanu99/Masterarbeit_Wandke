@@ -1,0 +1,6 @@
+Datensatz,Frequenz,voltage,Energieverbrauch,avg_power,GPU-Energieverbrauch,Energieverbrauch_gpu_cpu,Cpu-Anteil-Energieverbrauch
+fashion,3600,1.4,40526.04,39.38,160406.36,201028.8,20.21
+fashion,3600,1.3,35717.83,34.74,158682.22,194400.05,18.37
+fashion,3600,1.2,32090.42,31.2,160441.94,192532.36,16.67
+fashion,3600,1.1,29342.13,28.52,160477.09,189819.22,15.46
+fashion,3600,1.0,0,0,,,
